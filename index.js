@@ -12,6 +12,7 @@ if(answer.toUpperCase() ===userAnswer.toUpperCase())
   console.log("your Answer is Correct");
   score=score+1;
 }
+
 else
 {
   console.log("Your Answer is Wrong");
